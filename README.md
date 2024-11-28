@@ -1,0 +1,6 @@
+
+# Redogör översiktligt hur applikationen fungerar
+Applikationen är en quizhemsida byggd med Vue.js och TypeScript, där användare kan testa sina kunskaper inom olika kategorier. Kategorierna hämtas dynamiskt från Open Trivia Database API, vilket innebär att applikationen alltid har de senaste kategorierna tillgängliga. Användaren kan välja en kategori, svårighetsgrad och antal frågor innan quizen startar. Under quizen får användaren svara på frågor med fyra olika svarsalternativ; varje korrekt svar ger ett poäng, och i slutet visas resultaten där användaren kan se vilka frågor de fick rätt och fel på.
+
+# Beskriv hur du använt AI utveckling av din applikation.
+AI har varit ett värdefullt verktyg under utvecklingen genom att hjälpa till med felsökning och problemlösning, optimera koden och förbättra dess organisering. Genom AI:s förslag kunde vi snabbt identifiera och lösa buggar, effektivisera kodstrukturen och implementera bästa praxis, vilket ledde till en mer robust och välorganiserad applikation.
